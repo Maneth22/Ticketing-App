@@ -1,0 +1,41 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(‚©ÆÎúÿÿÿÿ
+l	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğîº8«Ï®Å©0
+9
+java:S1643h"Use a StringBuilder instead.(›…¤Â8¬Ï®Å©0
+o
+java:S2095›"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ê¹‰©øÿÿÿÿ8¹¾®Å©0
+l	java:S116"RRename this field "Message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÜØÌüÿÿÿÿ
+i	java:S116"ORename this field "Num1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¦‰‘ûÿÿÿÿ
+i	java:S116"ORename this field "Num2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¦‰‘ûÿÿÿÿ
+i	java:S116"ORename this field "Num3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¦‰‘ûÿÿÿÿ
+l	java:S116"RRename this field "Tickets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚©ÆÎúÿÿÿÿ
+d	java:S116"ORename this field "Day1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÅÃÕ
+d	java:S116"ORename this field "Day2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ë•ê
+i	java:S116"ORename this field "Day3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıºëÏÿÿÿÿÿ
+g
+java:S1845*"LRename field "day1" to prevent any misunderstanding/clash with field "Day1".(ò·»–úÿÿÿÿ
+g
+java:S1845,"LRename field "day2" to prevent any misunderstanding/clash with field "Day2".(– ô‘øÿÿÿÿ
+g
+java:S1845."LRename field "day3" to prevent any misunderstanding/clash with field "Day3".(›ºú±üÿÿÿÿ
+\
+java:S1659"ADeclare "Num2" and all following declarations on a separate line.(¦¦‰‘ûÿÿÿÿ
+o
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ø¾ê‡8ÅéÿÄ©0
+B
+java:S1172E",Remove this unused method parameter "event".(ø¾ê‡
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(’ıÈ8Ñ®Å©0
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(šÕ8’Ñ®Å©0
+E
+java:S1128"/Remove this unused import 'javafx.scene.Scene'.(Õü²
+Q
+java:S1128	";Remove this unused import 'javafx.scene.layout.AnchorPane'.(Ø µ
+J
+java:S1128
+"/Remove this unused import 'javafx.stage.Stage'.(æÄ¸²úÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'javafx.application.Platform.exit'.(Šö½æ

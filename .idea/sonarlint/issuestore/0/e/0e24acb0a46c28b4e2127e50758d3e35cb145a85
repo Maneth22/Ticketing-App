@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊéÅÊ8ì˜Œ»©0
+n
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ê¹‰©øÿÿÿÿ8¼¸‡»©0
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(õéµ¨ûÿÿÿÿ8ô˜Œ»©0
+U
+java:S1854"8Remove this useless assignment to local variable "list".(ºŽªõ8Ð…Æ½©0
+F
+java:S1481")Remove this unused "list" local variable.(ºŽªõ8Ó…Æ½©0
+X
+java:S1751"6Remove this "return" statement or make it conditional.(ó­‡‚þÿÿÿÿ8±†Æ½©0
